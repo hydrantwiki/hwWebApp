@@ -1,0 +1,6 @@
+src/hwServer/packages/
+src/hwServer/bin/
+*.user
+*.suo
+*.config
+src/hwServer/obj/

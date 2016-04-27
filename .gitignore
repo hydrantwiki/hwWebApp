@@ -4,3 +4,4 @@ src/hwServer/bin/
 *.suo
 *.config
 src/hwServer/obj/
+src/packages/
